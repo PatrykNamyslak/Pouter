@@ -1,0 +1,19 @@
+{
+    "name": "patryknamyslak/pouter",
+    "description": "A highly scalable router solution for HTTP requests",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Patryknamyslak\\": "src/",
+            "Patryknamyslak\\Pouter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Patryk",
+            "email": "contact@patryknamyslak.pl"
+        }
+    ],
+    "require": {}
+}
